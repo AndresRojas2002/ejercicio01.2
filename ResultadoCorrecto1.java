@@ -1,7 +1,7 @@
 /**
  * ResultadoCorrecto
  */
-public class ResultadoCorrecto {
+public class ResultadoCorrecto1 {
 public static void main(String[] args) {
     var operacion = 6 / 2 * (1+2) ;
     System.out.println(operacion);
